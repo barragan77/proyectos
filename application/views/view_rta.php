@@ -86,6 +86,17 @@
 					</a>
 					<a href="#compra" data-rel="popup" data-position="pop">carr</a>
 				</li>
+				<li data-role="list-divider">CERVEZA</li>
+				<li data-icon="delete">
+					<a href="#" target="_blank">
+						<img src="<?= base_url(); ?>images/aguacristalpotabletratadax3.125l.png" alt="">
+						<!--img src="<?= base_url(); ?>jquery.mobile/demos/_assets/img/de.png" alt="Francia" 
+						class="ui-li-icon ui-corner-none"--> Cerveza <span class="ui-li-count">0</span>
+						<h2>Cerveza potable tratada x 3.125L</h2>
+						<p></p>
+					</a>
+					<a href="#compra" data-rel="popup" data-position="pop">carr</a>
+				</li>
 			</ul>
 			<div data-role="popup" id="compra" data-theme="a" class="iu-content" style="max-width:340px; padding-bottom:2em;">
 				<h3>Articulo de compra</h3>
